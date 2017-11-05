@@ -1,9 +1,9 @@
-# [Asynchronous Programming With Python](https://pythoncomputing.com/training/async) - Schedule
+# [Asynchronous Programming With Python](https://pythoncomputing.com/#section-training) - Schedule
 #### _Francesco Pierfederici_
 
 
 ## Home Page
- * Course: https://pythoncomputing.com/training/async
+ * Course: https://pythoncomputing.com/#section-training
  * Code: https://github.com/fpierfed/async_course
 
 
